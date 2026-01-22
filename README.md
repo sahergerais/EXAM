@@ -4,11 +4,7 @@ This project is a personal landing page created by Saher Gerais to showcase web 
  
 Features
  
-Personal Introduction: A brief bio highlighting the developer's journey and growth in web development.
-
 Skills Showcase: Highlights the ability to build functional and user-friendly interfaces using core web technologies.
-
-Contact Form: A clean, simple form for users to provide their email address to get in touch.
 
 Live Notifications: Includes a placeholder for dynamic Bootstrap alerts to provide user feedback.
 
